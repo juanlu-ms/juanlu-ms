@@ -35,5 +35,3 @@ I am a final-year Software Engineering student at **UPM** (Universidad Politécn
 ### 📫 Let's Connect
 
 * 💼 [LinkedIn](https://linkedin.com/in/juanlums)
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=juanlu-ms&show_icons=true&theme=dark&hide_border=true&count_private=true)
